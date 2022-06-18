@@ -12,7 +12,7 @@ const CompA = () => {
               {(lname) => {
                 return (
                   <h1>
-                    My name is {fname} {lname}
+                    My name {fname} {lname}
                   </h1>
                 );
               }}
